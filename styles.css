@@ -8,3 +8,6 @@
 a {
     color: skyBlue;
 }
+a:visited {
+    color: mediumPurple;
+}
